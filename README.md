@@ -10,3 +10,5 @@ Jéhovah Meshak Dit Dieu Lounk \\\ «»«» . [L'Ok9 \\\\\\ . b, ⓟⓝⓣ 6L] �
 Je Perds Pas Mes lecteurs, soyez attentifs -
 
 dknk theuk-b, Pa-.¢./ ⓗ \\\ «» "ⓑ" Aussi -
+
+faites attention aux barres «» obliques \\\ «»«» le comptage ouvrir ce ← \\\ [et l'enregistrer] \\\ ←[README °° \\\/// [ⓟⓝⓣ [2L 3L \\\], Crochets] ← ••• "." ← \\\\ [[Jéhovah Meshak] ° Tka5loenh khonh-v eunh1] ← md \\] fichier \\\\\ -
