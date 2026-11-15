@@ -1,0 +1,28 @@
+td.td_thumbnail_title {
+	text-align: center;
+	vertical-align: top;
+	max-width: 100px;
+}
+a.a_thumbnail_title {
+}
+td.td_thumbnail_image
+{
+	text-align: center;
+	vertical-align: middle;
+}
+img.img_thumbnail_image
+{
+    border: 0px none;
+	width: 100%;
+	height: auto;
+}
+table.thumbs_table
+{
+    border: 0px none;
+}
+img.img_full_size_image
+{
+    border: 0px none;
+	width: 100%;
+	height: auto;
+}
