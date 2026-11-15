@@ -15,4 +15,6 @@ faites attention aux barres «» obliques \\\ «»«» le comptage [[pour le com
 
 et-% \\\ p2 ← v douze - ⇾  \\ «»«» En "." Parenthèses "v douze \\\\ ou-%" - nombre «» de barres obliques -
 
-et \\\ [v treize] °± -
+et \\\ [v treize] °± -m
+
+"Lounk-v" Mot Nouveau - 
