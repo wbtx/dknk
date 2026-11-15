@@ -1,0 +1,1106 @@
+<html>
+<head>
+<script language="JavaScript">
+_UM = "curmbox=F120899651&a=ad904476f1545ed8a5be4b2d73e2919a";
+function IfUtf8(C)
+{	var N = (document.charset=="utf-8")?1:0
+if (N == C)	return true		
+var u = k = document.location.href
+if (u.indexOf("utf8=")<=0)                  
+u += "&utf8=9";
+u = u.replace(/(utf8=)\d/ig,"$1"+(N?"1":"0"))
+if (u != k)
+{	window.location.replace(u)
+var w = window.open("","","height=1,width=1,menubar=no,resizable=no,titlebar=no,scrollbars=no,status=no,toolbar=no,menubar=no,location=no");
+w.close()	
+}
+}
+IfUtf8(0)	
+</script>
+<title>MSN Hotmail - Message</title>
+<link rel="stylesheet" href="/cgi-bin/dasp/EN/hotmail___9080000065.css">
+<script language="JavaScript" src="/cgi-bin/dasp/EN/helppane___9080000001F.js"></script>
+<script language="JavaScript" src="/cgi-bin/dasp/EN/hotmail___90800000744.js"></script>
+<script event=onload for=window language=vbscript>
+on error resume next
+dim MsngrObj
+set MsngrObj = CreateObject("MSNMessenger.HotmailControl")
+If Err.Number <> 0 Then
+
+Else
+MsngrCreateObj
+ExecuteGlobal "MIR"
+End if
+</script>
+</head>
+<body bgcolor=#336699 >
+<div id="HMname" style="visibility:hidden;position:absolute">dknk24@hotmail.com</div>
+<a name="top"></a>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr valign=top>
+<td width=450 style="padding-top:3px;">
+<table border=0 cellpadding=0 cellspacing=0><tr>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7341??PS=8317" class="F">MSN Home</a>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7342??PS=8317" class="F">My MSN</a>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<font class="F">Hotmail</font>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7345??PS=8317" class="F">Shopping</a>&#160;&#160;</td>	
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7346??PS=8317" class="F">Money</a>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7347??PS=8317" class="F">People & Chat</a>&#160;&#160;</td>
+
+</tr></table>
+</td>
+<td><span style="width:30px;">&nbsp;</span></td>
+<td>
+<a href="http://by8fd.bay8.hotmail.msn.com/cgi-bin/logout?curmbox=F120899651&a=ad904476f1545ed8a5be4b2d73e2919a&t=1070559383&loru=&id=2&fs=1&cb=_lang%3dEN%26country%3dFR&ct=1070559383">
+<img border=0 src="http://64.4.26.24/crs_918.gif" alt="Sign out of .NET Passport sites" width="66" height="19">
+</a>
+</td>
+<td><span style="width:27px;">&nbsp;</span></td>
+<td nowrap valign=middle>
+<font class="G"><label for="q">Web Search:</label></font>
+</td>
+<td><span style="width:6px;">&nbsp;</span></td>
+<td width=100% nowrap valign=middle>
+<form method="GET" name="websearch" action="http://search.msn.com/results.asp" style="margin-bottom:0px;margin-bottom:0px;">
+<input type="Hidden" name="RS" value="CHECKED">
+<input type="Hidden" name="Form" value="HM">
+<input type="Hidden" name="cp" value="1252">
+<input type="Hidden" name="v" value=1>
+<input type="text" id="q" name="q" size=14 accesskey="S" style="WIDTH:65%">
+<span style="width:3px;"></span>
+<input type="submit" value="Go" size=4>
+</form>
+</td>
+</tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr><td><img src="http://64.4.26.24/spacer.gif" width=1 height=5></td></tr>
+<tr>
+<td width=100% align=center>
+<IFRAME FRAMEBORDER=0 SCROLLING=NO MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=468 HEIGHT=60 SRC="http://rad.msn.com/ADSAdClient31.dll?GetAd?PG=HOTRW1?SC=LG?HM=045d47465f58585b471c5d4057151403496e7b51102852153e4b13595e535d530b05486664?LOC=R?TF=_NEW?ID=000115E803E2CCE6?UC=1?PS=8317?PI=44338?AP=1011?NA=1144?NC=9523" tabindex="-1"></IFRAME>
+
+</td>
+</tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=0 width=100% >
+<tr><td colspan=2><img src="http://64.4.26.24/spacer.gif" height=1 width=779></td></tr>
+<tr>
+<td>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr> 
+<td rowspan=2 background="http://64.4.26.24/tab.bg.dln.gif">
+<a href="http://g.msn.com/1HM9EN/141??PS=8317" target="_top"><img src="http://64.4.26.24/lgo_msn_118x35.gif" width=118 height=35 border=0 alt="go to MSN"></a>
+</td>
+<td rowspan=2 background="http://64.4.26.24/tab.bg.dln.gif"><font class="D">Hotmail</font></td>
+<td rowspan=2><img src="http://64.4.26.24/tab.slide.hm.li.gif"></td>
+<td colspan=12 height=13 bgcolor=#336699></td>
+</tr>
+<tr>
+<td><img src="http://64.4.26.24/tab.separator.off.gif"></td>
+<td background="http://64.4.26.24/tab.bg.off.gif" nowrap>
+&nbsp;&nbsp;&nbsp;<a href="javascript:G('/cgi-bin/hmhome?');" tabindex=120 class="E">Today</a>&nbsp;&nbsp;&nbsp;
+</td>
+<td><img src="http://64.4.26.24/tab.separator.on.l.gif"></td>
+<td background="http://64.4.26.24/tab.bg.on.gif" nowrap>
+&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/HoTMaiL?curmbox=F000000001&a=ad904476f1545ed8a5be4b2d73e2919a" tabindex=121 class="E">Mail</a>&nbsp;&nbsp;&nbsp;
+</td>
+<td><img src="http://64.4.26.24/tab.separator.off.gif"></td>
+<td background="http://64.4.26.24/tab.bg.off.gif" nowrap>
+&nbsp;&nbsp;&nbsp;<a href="javascript:G('/cgi-bin/addresses?');" tabindex=123 class="E">Contacts</a>&nbsp;&nbsp;&nbsp;
+</td>
+<td><img src="http://64.4.26.24/tab.separator.end.gif"></td>
+<td background="http://64.4.26.24/tab.bg.sln.gif" width=100%>&nbsp;</td>
+</tr>
+</table>
+</td>
+<td valign=bottom>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr>
+<td background="http://64.4.26.24/tab.bg.sln.gif"><img src="http://64.4.26.24/spacer.gif" width=1 height=35></td>
+<td background="http://64.4.26.24/tab.bg.sln.gif" nowrap align=right>
+<a href="/cgi-bin/options?section=mail&subsection=&curmbox=F120899651&a=ad904476f1545ed8a5be4b2d73e2919a" class="G">Options</a>&nbsp;&nbsp;<font class="G">|</font>&nbsp;&nbsp;<a href="javascript:CPH('PIM_ReadMessage');" class="G">Help</a>&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr bgcolor="#4791C5"><td colspan=3><img src="http://64.4.26.24/spacer.gif" height=1 width=779></td></tr>
+<tr bgcolor="#4791C5"><td style="padding-left:10px;height:20px;border-bottom:1px solid #10659E">
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr>
+<td width=100% align="left" valign="middle"><font class="G">dknk24@hotmail.com</font></td>
+</tr>
+</table>
+</td>
+<td align=right style="padding-left:10px;height:20px;border-bottom:1px solid #10659E">
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td align="right" valign="middle">
+<a href="http://g.msn.com/1HM9EN/2946??PS=8317&DI=1039" target="_top" class="G" style="white-space:nowrap;">Free Newsletters</a>
+&nbsp;</td>
+</tr></table></td></tr></table><iframe id="Hfrm" class="NN""></iframe>
+<table border=0 cellpadding=0 cellspacing=0 width=100% class="N" id="HMTB">
+<tr><td colspan=2><img src="http://64.4.26.24/spacer.gif" height=1 width=779></td></tr>
+<tr><td>
+<table border=0 cellpadding=0 cellspacing=0 width=100% class="O">
+<tr>
+<td style="width:8px"><img src="http://64.4.26.24/spacer.gif" height=1 width=8></td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="MP('/cgi-bin/compose?type=r')"><img src="http://64.4.26.24/i.p.reply.gif" border=0 align=absmiddle hspace=1 alt="Reply"> <a href="#" onclick="MP('/cgi-bin/compose?type=r');return false;" tabindex=1>Reply</a></td>
+<td class="LL">|</td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="MP('/cgi-bin/compose?type=ra')"><img src="http://64.4.26.24/i.p.replyall.gif" border=0 align=absmiddle hspace=1 alt="Reply All"> <a href="#" onclick="MP('/cgi-bin/compose?type=ra');return false;" tabindex=1>Reply All</a></td>
+<td class="LL">|</td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="MP('/cgi-bin/compose?type=f')"><img src="http://64.4.26.24/i.p.fwd.gif" border=0 align=absmiddle hspace=1 alt="Forward"> <a href="#" onclick="MP('/cgi-bin/compose?type=f');return false;" tabindex=1>Forward</a></td>
+<td class="LL">|</td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="G('/cgi-bin/getmsg?msg=MSG1070539939.105&mfs=&_HMaction=move&tobox=F000000004&direction=next')"><img src="http://64.4.26.24/i.p.delete.gif" border=0 align=absmiddle hspace=1 alt="Delete"> <a href="#" onclick="G('/cgi-bin/getmsg?msg=MSG1070539939.105&mfs=&_HMaction=move&tobox=F000000004&direction=next');return false;" tabindex=1>Delete</a></td>
+<td class="LL">|</td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="DB(0)"><img src="http://64.4.26.24/i.p.block.gif" border=0 align=absmiddle hspace=1 alt="Block"> Block</td>
+<td class="LL">|</td>
+<td id="JunkTD" class="P" nowrap onmouseover="MME(event, Junk);" onmouseout="MME(event, Junk);" onblur="MME(event, Junk);" onclick="MCH(event,Junk)"><img src="http://64.4.26.24/i.p.junkmail.gif" border=0 align=absmiddle hspace=1 alt="Junk Mail"> Junk <img src="http://64.4.26.24/i.p.downarrow.gif" border=0 align=absmiddle hspace=1></td>
+<td class="LL">|</td>
+<td id="PutInFTD" class="P" nowrap onmouseover="MME(event, PutInFldr);" onmouseout="MME(event, PutInFldr);" onblur="MME(event, PutInFldr);" onclick="MCH(event,PutInFldr)"><img src="http://64.4.26.24/i.p.putinfolder.gif" border=0 align=absmiddle hspace=1 alt="Put In Folder"> Put in Folder <img src="http://64.4.26.24/i.p.downarrow.gif" border=0 align=absmiddle hspace=1></td>
+<td class="LL">|</td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="OW('PrintView','680','580','','','','','yes','yes','yes','/cgi-bin/getmsg?curmbox=F120899651&a=ad904476f1545ed8a5be4b2d73e2919a&msg=MSG1070539939.105&printf=1&wcid=&soid=&skipnextprevmsg=&ShowImages=');"><img src="http://64.4.26.24/i.p.printv.gif" border=0 align=absmiddle hspace=1 alt="Print"> Print View</td>
+<td class="LL">|</td>
+<td class="P" nowrap onmouseover="MO()" onmouseout="MU()" onclick="G('/cgi-bin/domsgaddresses?&action=Modify&msg=MSG1070539939.105')"><img src="http://64.4.26.24/i.p.cont.individual.gif" border=0 align=absmiddle hspace=1 alt="Contact"> Save Address</td>
+<td width=100%>&nbsp;</td>
+</tr>
+</table>
+</td>
+<td style="CURSOR:auto">
+<table border=0 cellpadding=0 cellspacing=0 width=100% class="O"><tr><td width=100%>&nbsp;</td></tr></table>
+</td>
+</tr>
+<tr><td colspan=2><img src="http://64.4.26.24/spacer.gif" height=1 width=779></td></tr>
+</table>
+<table id="FldrTable" onclick="MCH(event,PutInFldr,true)" class="U">
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="PI('MoveTo','F000000001')">Inbox</TD></TR>
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="PI('MoveTo','F000000002')">Sent Messages</TD></TR>
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="PI('MoveTo','F000000003')">Drafts</TD></TR>
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="PI('MoveTo','F000000004')">Trash Can</TD></TR>
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="PI('MoveTo','F120899651')">dknk</TD></TR>
+</table>
+<script language="javascript" >
+var PutInFldr = new MenuObj("PutInFldr", "FldrTable", "PutInFTD", "", "T", "P", "Q","Hfrm","");
+</script>
+<table id="JunkTable" onclick="MCH(event,Junk,true)" class="U">
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="DB(1)">Report Junk E-Mail</TD></TR>
+<TR><TD class="W" onmouseover="MO_D()" onmouseout="MU_D()" onclick="DB(2)">Report and Block Sender</TD></TR>
+</table>
+<script language="javascript" >
+var Junk = new MenuObj("Junk", "JunkTable", "JunkTD", "", "T", "P", "Q","Hfrm","");
+</script>
+<table border=0 cellpadding=0 cellspacing=0 width=100% bgcolor=#DBEAF5>
+<tr>
+<td width=10>
+<img src="http://64.4.26.24/spacer.gif" width=10 height=1>
+<form name=msgr><input type=hidden name=msgFromName value="actusdujour@multimedialaune.com"><input type=hidden name=FromText value="actusdujour@multimedialaune.com"></form><form name=move action="/cgi-bin/getmsg"><input type=hidden name=curmbox value="F120899651"><input type=hidden name=msg value=MSG1070539939.105><input type=hidden name=js><input type=hidden name=_HMaction value=""><input type=hidden name=cmd><input type=hidden name=IsAddressedToUser value=""><input type=hidden name=tobox></form><form name=block><input type=hidden name=curmbox value="F120899651"><input type=hidden name=_HMaction><input type=hidden name=IsSingleMsg value=1><input type=hidden name=from value=getmsg><input type=hidden name=ReportLevel value=""><input type=hidden name="MSG1070539939.105" value=on></form>
+<script>
+function PI(a,b)
+{
+document.move._HMaction.value=a
+document.move.tobox.value=b
+document.move.submit()
+}
+function HM(l){G('/cgi-bin/HoTMaiL?'+l)}
+function GM(l){G("/cgi-bin/getmsg?"+l)}
+function MP(l){G(l+"&curmbox=F120899651&a=ad904476f1545ed8a5be4b2d73e2919a&msg=MSG1070539939.105&start=1869641&len=54735")}
+function S(t,a,b,c,d,e,f,g,h){G('/cgi-bin/'+t+'?msg='+a+'&start='+b+'&len='+c+'&mfs='+d+'&cmd='+h+'&lastmsgid='+e+'&msgread='+f+'&etype='+g)}
+function DB(a)
+{
+frm.action="/cgi-bin/kill"
+frm.ReportLevel.value=a
+frm._HMaction.value=a
+frm.submit()
+}
+var frm=document.block
+</script>
+</td>
+<td width=100% valign=top>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr>
+<td valign=top width=100% class="HT">
+
+<style>
+.HT {padding-top:5px}
+.TH{border:0px;cell-spacing:0px;margin:0px;width:100%}
+.TH TD{padding-bottom:3px}
+.LH {padding-bottom:5px;white-space:nowrap}
+TT, PRE {font-size:12px}
+</style>
+<table class="TH">
+<tr><td nowrap>From&nbsp;:&nbsp;</td><td> &lt;actusdujour@multimedialaune.com&gt;</td></tr>
+<tr><td nowrap>Reply-To&nbsp;:&nbsp;</td><td>actusdujour@multimedialaune.com</td></tr>
+<tr><td nowrap>Sent&nbsp;:&nbsp;</td><td>Thursday,&nbsp;December&nbsp;4,&nbsp;2003&nbsp;12:00&nbsp;AM</td></tr>
+<tr><td nowrap>To&nbsp;:&nbsp;</td><td>dknk24@hotmail.com</td></tr>
+<tr><td nowrap>Subject&nbsp;:&nbsp;</td><td>L'essentiel de l'actualité MultiMedia - MultiMedialaUne.com</td></tr>
+<tr><td style="padding-bottom:0px"><img src="http://64.4.26.24/spacer.gif" width=70 height=1></td><td width=100%  style="padding-bottom:0px"></td></tr>
+</table>	
+</td>
+<td class="HT" align=right valign=top>
+<table border=0 cellspacing=0 cellpadding=2>
+<tr>
+<td><a href="javascript:S('getmsg','','','','','MSG1070539939.105','','','prev')" tabindex=1><img src="http://64.4.26.24/i.p.previous.gif" border=0></a></td><td>|</td>
+<td><a href="javascript:S('getmsg','','','','','MSG1070539939.105','','','next')" tabindex=2><img src="http://64.4.26.24/i.p.next.gif" border=0></a></td><td>|</td>
+<td nowrap><a href="javascript:HM('')"><img src="http://64.4.26.24/i.p.folder.gif" align=left border=0>dknk</a></td><td>|</td>
+<td nowrap><a href="javascript:HM('curmbox=F000000001')"><img src="http://64.4.26.24/i.p.folder.inbox.gif" align=left border=0>Inbox</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr>
+<td width=100% nowrap style="padding-bottom:5px">
+</td>
+</tr>
+</table>
+<table bgcolor=#FFFFFF height=209 width=100%>
+<tr>
+<td valign=top>	
+
+<table border=0 cellspacing=8 cellpadding=0 width=100% align=center nowrap> 
+ <tr><td>
+<DIV><SCRIPT>
+<!--
+function Filtered()
+{
+return 0
+}
+//-->
+</SCRIPT>
+
+
+
+
+
+
+<div align="center">
+  <table cellSpacing="0" cellPadding="0" width="760" border="0" bordercolorlight="#C0C0C0">
+    <tbody>
+      <tr>
+        <td class="fond1" vAlign="top" width="760" colSpan="2">
+          <table cellSpacing="0" cellPadding="0" border="0" valign="top">
+            <tbody>
+              <tr>
+                <td vAlign="top" align="left"><!-- START MODULE =============================================================================================================== -->
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <table cellSpacing="0" cellPadding="0" border="0" width="756">
+                            <tbody>
+                              <tr>
+                                <td width="258"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=8b7f683b891f75162c8611a99818aba4&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2ecom" target="_blank"><img src="http://mmune.pubao.com/biblio/multimedialaune.gif" border="0" width="258" height="103" target="_blank"></a></td>
+                                <td width="490" bgcolor="#CCCCCC" align="center"><a target="_blank"><img src=http://www.multimedialaune.net/biblio/banh.gif  border=0 alt= width=~468~ height="60" target="_blank"></a>                                </td>
+                                <td width="1"></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <!-- END MODULE ================================================================================================================= -->
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <!-- *********************************** colonne de gauche  *************************************************************************** -->
+        <td class="fond2" vAlign="top" align="left" width="504">
+          <table cellSpacing="0" cellPadding="0" width="507" border="0">
+            <tbody>
+              <tr>
+                <td vAlign="center" align="middle" height="10" width="506">
+                  <table width="447">
+                    <tr>
+                      <td vAlign="top" align="middle" height="10" width="577"></td>
+                    </tr>
+                    <tr>
+                      <td vAlign="top" align="middle" width="577">
+                        <table cellSpacing="0" cellPadding="0" border="0">
+                          <tbody>
+                            <tr>
+                              <td><img src="http://www.multimedialaune.net/biblio/inter_alaune.gif" width="471" height="32" align="left"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                <table>
+                  <tr>
+                    <td vAlign="center" align="left" height="10">
+                      <table>
+                        <tr>
+                          <td vAlign="center" align="left" height="10">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td vAlign="top" align="middle">
+                            <table cellSpacing="0" cellPadding="0" width="480" border="0" valign="top">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <table cellSpacing="0" borderColorDark="#000000" cellPadding="1" width="480" borderColorLight="#000000" border="1">
+                                      <tbody>
+                                        <tr>
+                                          <td width="98" bgColor="#000000"><font face="Verdana" color="#ffffff" size="1"><b>HITS
+                                            DE VENTES</b></font></td>
+                                          <td bgColor="#cccccc"><font face="Verdana" color="#d30009" size="1">du
+                                            17 au 23/11 &gt;&gt;&gt; <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=71601e89b9e577b9962fbbe0009f41ab&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58930%26amp%3bpreview%3d1" target="_blank"><b>PC</b></a>
+                                            - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=0ce8bfb2bdd18187f3ce3e596e2ed362&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58931%26amp%3bpreview%3d1" target="_blank"><b>GC</b></a>
+                                            - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=b6b0769f0fc40bc83bf95096916efeaa&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58932%26amp%3bpreview%3d1" target="_blank"><b>PS2</b></a>
+                                            - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=da7da533b77567de345f09b2676e51e1&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58933%26amp%3bpreview%3d1" target="_blank"><b>GBA</b></a>
+                                            - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=0faa608a0f280d270ee3aab3c5b93a25&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58934%26amp%3bpreview%3d1" target="_blank"><b>PSone</b></a>
+                                            - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=3bf8dbf9510016ccf99c2d5e96716c11&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58935%26amp%3bpreview%3d1" target="_blank"><b>Xbox</b></a></font></td>
+                                          <td width="32" bgColor="#000000"><img src="http://www.multimedialaune.net/biblio/logo_kdg.jpg" width="32" height="15"></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td vAlign="center" align="left" height="10">
+                            <table width="482">
+                              <tr>
+                                <td height="10" width="474">
+                                <table>
+                                  <tr>
+                                    <td vAlign="center" align="left" height="10"></td>
+                                  </tr>
+                                  <tr>
+                                    <td vAlign="top" align="middle">
+                                      <table cellSpacing="0" cellPadding="5" width="490" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="fond2-223" vAlign="top"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=dc6bfa6f88da980ced6ddd3ce3bd0d50&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59490" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" alt src="http://www.multimedialaune.net/photo/GV_photo_1443_1.jpg" border="1" width="148" height="146" target="_blank"></font></a></td>
+                                            <td class="fond1-223" vAlign="top"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=ea0d788f1ed838aaf0121461d063429a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59532" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" alt src="http://www.multimedialaune.net/photo/GV_photo_1454_1.jpg" border="1" width="148" height="146" target="_blank"></font></a></td>
+                                            <td class="fond2-223" vAlign="top"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=9e6278d6675337974d43364fd8140814&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59459" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" alt src="http://www.multimedialaune.net/photo/GV_photo_1436_1.jpg" border="1" width="148" height="146" target="_blank"></font></a></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="fond2-223" vAlign="top"><font size="2" face="Arial"><a class="font3-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=dc6bfa6f88da980ced6ddd3ce3bd0d50&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59490" target="_blank"><b>Le
+                                              contenu payant arrive sur le
+                                              XboxLive</b></a><br>
+                                              <a class="font4-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=dc6bfa6f88da980ced6ddd3ce3bd0d50&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59490" target="_blank">Il
+                                              y a trois semaines, le sondage
+                                              MultiMedialaune.com portait sur l'éventualité
+                                              de commercialiser des jeux via le
+                                              online pour les consoles et vos
+                                              avis étaient ...</a></font></td>
+                                            <td class="fond1-223" vAlign="top"><font size="2" face="Arial"><a class="font3-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=ea0d788f1ed838aaf0121461d063429a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59532" target="_blank"><b>Cegetel
+                                              casse les prix du haut débit</b></a><br>
+                                              <a class="font4-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=ea0d788f1ed838aaf0121461d063429a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59532" target="_blank">Cegetel,
+                                              filiale de Vivendi Universal,
+                                              relance la guerre des prix du haut
+                                              débit. En effet, le nouveau
+                                              fournisseur d'accès à internet
+                                              va proposer, à partir du ...</a><br>
+                                              </font></td>
+                                            <td class="fond2-223" vAlign="top"><font size="2" face="Arial"><a class="font3-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=9e6278d6675337974d43364fd8140814&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59459" target="_blank"><b>Le
+                                              format DVD bientôt triplement
+                                              menacé !</b></a><br>
+                                              <a class="font4-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=9e6278d6675337974d43364fd8140814&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59459" target="_blank">Décidément
+                                              les cycles technologiques ne
+                                              cessent de se raccourcir. C’est
+                                              du moins le cas pour le support
+                                              DVD. Alors que, rappelons-le, la
+                                              baisse des prix des ...</a></font></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="474" bgcolor="#000000"><img src="http://www.multimedialaune.net/biblio/hb.jpg" width="125" height="45"></td>
+                              </tr>
+                              <tr>
+                                <td bgColor="#d5d5d5" width="474"><a class="font3-223" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=61b82af5671f7c9122162e347665656e&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d58533%26amp%3bpreview%3d1" target="_blank"><font face="Verdana" size="2" target="_blank"><b>Quand
+                                  l’empire Wal-Mart inquiète l’Amérique
+                                  &gt;&gt;</b></font></a></td>
+                              </tr>
+                              <tr>
+                                <td width="474" bgcolor="#FF0000"><img src="http://www.multimedialaune.net/biblio/hb2.jpg" width="125" height="11"></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td vAlign="top" align="middle">
+                            <table height="100" cellSpacing="0" cellPadding="0" width="480" border="0" valign="top">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <table height="100" cellSpacing="0" borderColorDark="#000000" cellPadding="1" width="235" borderColorLight="#000000" border="1">
+                                      <tbody>
+                                        <tr>
+                                          <td bgColor="#cccccc"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=cd26d33a42d65ff4ef71e89cd0100f96&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d58737" target="_blank"><img src="http://www.multimedialaune.net/biblio/dossierhome5.jpg" width="60" align="left" border="0" valign="top" target="_blank"></a><font face="Verdana" color="#d30009" size="1"><b>DOSSIER</b><br>
+                                            <font color="#000000"><b>Des
+                                            coffrets de Noël pour tous les goûts
+                                            et toutes les budgets</b><br>
+                                            Derrière le terme générique «
+                                            coffrets de Noël » se cache en réalité
+                                            une multitude de produits. Décryptage.<a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=cd26d33a42d65ff4ef71e89cd0100f96&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d58737" target="_blank"><b>Lire</b></a></font></font></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                  <td width="10"></td>
+                                  <td>
+                                    <table height="100" cellSpacing="0" borderColorDark="#000000" cellPadding="1" width="235" borderColorLight="#000000" border="1">
+                                      <tbody>
+                                        <tr>
+                                          <td bgColor="#cccccc"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=2527e97f3e1b93798d1138cbeb9d3b96&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d58189" target="_blank"><img src="http://www.multimedialaune.net/biblio/interviewhome008.jpg" width="60" align="left" border="0" valign="top" target="_blank"></a><font face="Verdana" color="#d30009" size="1"><b>INTERVIEW</b><br>
+                                            <font color="#000000"><b>Yves
+                                            Carrillo, directeur général
+                                            d’Antarès Multimédia : </b>&quot;Près
+                                            des trois-quarts de nos 120
+                                            partenaires devraient d'ici quelques
+                                            années porter notre nom&quot;<a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=2527e97f3e1b93798d1138cbeb9d3b96&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d58189" target="_blank"><b>Lire</b></a></font></font></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td vAlign="top" align="middle">
+                      <table cellSpacing="0" cellPadding="0" width="480" border="0" valign="top">
+                        <tbody>
+                          <tr>
+                            <td>
+                              <table cellSpacing="0" borderColorDark="#000000" cellPadding="1" width="480" borderColorLight="#000000" border="1">
+                                <tbody>
+                                  <tr>
+                                    <td width="75" bgColor="#000000"><font face="Verdana" color="#ffffff" size="1"><b>PLANNINGS</b></font></td>
+                                    <td align="middle" bgColor="#cccccc"><font face="Verdana" color="#d30009" size="1">JEUX
+                                      VIDEO &gt;&gt;&gt; <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=a5349d48ed467792f635970296d9285a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d49624%26amp%3bpreview%3d1" target="_blank"><b>Oct</b></a>
+                                      - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=e925b78d1721a62174cb9bdc6006da65&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d49626%26amp%3bpreview%3d1" target="_blank"><b>Nov</b></a>
+                                      - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=c40d1699a1871c7d5c31b4710f343a5c&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d51816%26amp%3bpreview%3d1" target="_blank"><b>Déc</b></a>
+                                      <font face="Verdana" color="#d30009" size="1">DVD
+                                      &gt;&gt;&gt; <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=b4b1922c19a4ee674353f381ac155515&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d49625%26amp%3bpreview%3d1" target="_blank"><b>Oct</b></a>
+                                      - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=1c39cf1e5edc5d554e13b1125606fb54&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d49752%26amp%3bpreview%3d1" target="_blank"><b>Nov</b></a>
+                                      - <a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=39bed323761fae8d6b67a193d5fd2133&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2f%3faction%3dpage%26amp%3bid_art%3d52568%26amp%3bpreview%3d1" target="_blank"><b>Déc</b></a></font></font></td>
+                                    <td width="32" bgColor="#000000"><img src="http://www.multimedialaune.net/biblio/logo_kdg.jpg" width="32" height="15"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_distribution.gif" width="471" height="32">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=d716192e5ccc11199eb9059d065ce2dd&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59521" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1452_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Hits
+                          des ventes</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=d716192e5ccc11199eb9059d065ce2dd&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59521" target="_blank"><b>Hits
+                          des ventes Multimédia GfK : Matrix en DVD, Britney
+                          Spears en CD et PES 3 en jeu</b></a><br>
+                          <a class="font3-224" target="_blank">Le retour des <b>« Blockbusters
+                          »</b> dans les tops hebdomadaires de GfK marque le
+                          lancement de la période des fêtes.&nbsp;</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=daa96d8a73394cb470af7ebac45e9e79&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59517" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1450_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Distribution</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=daa96d8a73394cb470af7ebac45e9e79&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59517" target="_blank"><b>VirginMega
+                          étoffe son catalogue numérique</b></a><br>
+                          <a class="font3-224" target="_blank">Le site VirginMega.fr a annoncé
+                          hier la signature d’un contrat de distribution numérique
+                          avec Sony Music France.<br>
+                          <br>
+                          «i[La major autorise désormais le site à proposer
+                          les titres de son ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_economie.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=a10ff8a93a8469ea29c1f19b304e1329&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59513" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1448_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Economie/Finances</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=a10ff8a93a8469ea29c1f19b304e1329&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59513" target="_blank"><b>Dresdner
+                          Kleinwort Wasser maintient Carrefour à l’achat</b></a><br>
+                          <a class="font3-224" target="_blank">La banque d’affaires Dresdner
+                          Kleinwort Wasserstein réitère sa recommandation
+                          d'achat sur Carrefour, fixant l’objectif de cours à
+                          55 €. L’action cote aujourd’hui près de 45 €.</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=30894ef517fd48877be1eeda6aa8380a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59510" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1446_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Economie/Finances</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=30894ef517fd48877be1eeda6aa8380a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59510" target="_blank"><b>Reprise
+                          modérée dans la zone euro</b></a><br>
+                          <a class="font3-224" target="_blank">Après avoir frôlé la récession,
+                          les pays de la zone euro ont globalement enregistré
+                          une croissance de 0,4 % au troisième trimestre, selon
+                          les chiffres définitifs d’Eurostat, par rapport aux
+                          trois ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_jeuxvideo.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=b10c5e37e787dd5a75543e1ef2193dd9&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59488" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1441_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Jeux
+                          vidéo</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=b10c5e37e787dd5a75543e1ef2193dd9&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59488" target="_blank"><b>Acclaim
+                          distribuera Baldur’s Gate Dark Alliance 2</b></a><br>
+                          <a class="font3-224" target="_blank">Après son alliance avec Bam,
+                          dont le catalogue a été soufflé à Nobilis il y a
+                          quelques semaines, Acclaim vient de réussir un autre
+                          fort joli coup en annonçant s’apprêter à signer
+                          un accord de ...</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=25279bdab52b2036cc9d808346919e82&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59485" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1438_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Jeux
+                          vidéo</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=25279bdab52b2036cc9d808346919e82&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59485" target="_blank"><b>Un
+                          éditeur chinois de jeux vidéo au Nasdaq ?</b></a><br>
+                          <a class="font3-224" target="_blank">Selon Reuters, Shanda Networking,
+                          numéro un chinois des jeux en ligne, projetterait de
+                          lever au moins 300 millions de dollars (247,95
+                          millions d’euros) en s'introduisant sur le Nasdaq au
+                          premier ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_software.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=266ac0a6a3892ffae91743173026c3ca&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59492" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1444_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Software</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=266ac0a6a3892ffae91743173026c3ca&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59492" target="_blank"><b>Un
+                          programme revendeur pour Ciel</b></a><br>
+                          <a class="font3-224" target="_blank">Ciel, spécialiste des logiciels
+                          de gestion pour les petites entreprises, lance son
+                          programme revendeurs baptisé <b>Energie +</b>. Il
+                          propose de nouveaux outils de marketing et d’aide à
+                          la vente gratuits ...</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=55af0f68416cd98f0085ca9b97246b7e&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59486" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1439_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Software</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=55af0f68416cd98f0085ca9b97246b7e&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59486" target="_blank"><b>Sage
+                          optimiste</b></a><br>
+                          <a class="font3-224" target="_blank">L'éditeur de logiciels
+                          britannique Sage a réalisé de bons résultats pour
+                          son exercice fiscal 2002/2003. Le groupe a réalisé
+                          un bénéfice imposable de 151 millions de livres (216
+                          millions d’euros), ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_dvd.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=e6fa09d7ae6094fc3e75b730512cf930&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59487" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1440_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">DVD</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=e6fa09d7ae6094fc3e75b730512cf930&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59487" target="_blank"><b>Quinta
+                          reprend Duran Duboi</b></a><br>
+                          <a class="font3-224" target="_blank">Quinta continue son développement.
+                          Après avoir acquis Dataciné, Ex-Machina et des
+                          studios en Tunisie, la société de <b>Tarak Ben Amar</b>
+                          vient de reprendre Duran Duboi, en redressement
+                          judiciaire avec ...</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=a7816f2f756013facff758bb45b4aea9&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59484" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1437_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">DVD</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=a7816f2f756013facff758bb45b4aea9&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59484" target="_blank"><b>Un
+                          cracker de DVD face aux juges</b></a><br>
+                          <a class="font3-224" target="_blank">Le procès en appel de Jon Lech
+                          Johansen, alias &quot;DVD Jon&quot;, vient de débuter.
+                          Ce norvégien de vingt ans est accusé d'avoir craqué
+                          les mesures de protection protégeant les DVD du
+                          piratage par la MPAA ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_hardware.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=330abcacb58056f48326a45b39562b89&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59524" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1453_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Hardware/EGP</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=330abcacb58056f48326a45b39562b89&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59524" target="_blank"><b>La
+                          nouvelle gamme clavier/souris de Creative Labs en
+                          exclusivité chez Tech Data !</b></a><br>
+                          <a class="font3-224" target="_blank">Tech Data annonce la disponibilité
+                          en exclusivité pour les revendeurs de la nouvelle
+                          gamme Creative Labs claviers/souris.</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=fc0d283735d78fe7181c19c86f16c708&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59509" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1445_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Hardware/EGP</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=fc0d283735d78fe7181c19c86f16c708&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59509" target="_blank"><b>Musique
+                          en ligne : les constructeurs informatiques arrivent en
+                          force</b></a><br>
+                          <a class="font3-224" target="_blank">Après Apple, Dell et Microsoft,
+                          c'est HP qui devrait annoncer prochainement sa venue
+                          dans l’univers du téléchargement musical payant.
+                          Le numéro deux mondial de l’informatique
+                          s’appuiera pour ce faire ...</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=13f7a5a16165f3dd19c8a7f8410e5977&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59489" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1442_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Hardware/EGP</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=13f7a5a16165f3dd19c8a7f8410e5977&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59489" target="_blank"><b>Mouvement
+                          dans le capital de Guillemot</b></a><br>
+                          <a class="font3-224" target="_blank">Le capital du groupe Guillemot
+                          connaîtra en décembre une forte activité. D'une
+                          part, les fondateurs ont prévu une augmentation de
+                          capital réservée de 14 millions d'euros par apport
+                          de cinq millions ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_mobilware.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=1778b0bb959f58ecf6b554e50c482bf1&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59512" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1447_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Mobilware/Internet</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=1778b0bb959f58ecf6b554e50c482bf1&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59512" target="_blank"><b>Progression
+                          modérée du nombre de Français câblés</b></a><br>
+                          <a class="font3-224" target="_blank">Près de 3,66 millions de foyers
+                          étaient abonnés au câble au 30 septembre dernier,
+                          soit une hausse de 2,4 % par rapport à septembre
+                          2002, a fait savoir l'Association française des opérateurs
+                          de ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_prestataires.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=83c33fe6d2b761060d6d206058600907&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59279" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1415_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font size="2" face="Arial"><a class="font1-224" target="_blank">Prestataires</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=83c33fe6d2b761060d6d206058600907&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59279" target="_blank"><b>Wanadoo
+                          propose une e-régie publicitaire pan-européenne</b></a><br>
+                          <a class="font3-224" target="_blank"><b>Freeserve</b>, <b>Libero</b>
+                          et <b>Web.de</b>, trois FAI européens, et <b>Wanadoo</b>,
+                          leader sur le marché français, ont créé une régie
+                          active sur six pays de l’Union Européenne : la
+                          France, l’Allemagne, le ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10" width="506">
+                  <font size="2" face="Arial">
+                  <img border="0" src="http://www.multimedialaune.net/biblio/inter_nominations.gif" width="471" height="32">
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=b3969a3466b8adefb3ff80d373f82b7a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59249" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1410_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><a class="font1-224" target="_blank"><font size="2" face="Arial" target="_blank">Emploi/Nomination</font></a><font size="2" face="Arial"><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=b3969a3466b8adefb3ff80d373f82b7a&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59249" target="_blank"><b>Offre
+                          d'emploi :SALES &amp; MARKETING MANAGER</b></a><br>
+                          </font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=48201e18df262ebb17c204039a5d2580&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59248" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1409_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font size="2" face="Arial"><a class="font1-224" target="_blank">Emploi/Nomination</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=48201e18df262ebb17c204039a5d2580&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59248" target="_blank"><b>Offre
+                          d'emploi : CHEF DE SECTEUR / ATTACHE(E) COMMERCIAL(E)</b></a><br>
+                          </font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=86341d4866a17f17c7383f0748f2f8ff&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59246" target="_blank"><font size="2" face="Arial" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1408_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond2-224" vAlign="top" width="430"><font size="2" face="Arial"><a class="font1-224" target="_blank">Emploi/Nomination</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=86341d4866a17f17c7383f0748f2f8ff&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59246" target="_blank"><b>Offre
+                          d'emploi : PRODUCER</b></a><br>
+                          <a class="font3-224" target="_blank">Ref. Annonce : 3011<br>
+                          Salaire : 35K€ + selon expérie<br>
+                          Poste basé à Paris</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="10"></td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                  <table class="fond1-224" cellSpacing="5" cellPadding="2" border="0">
+                    <tbody>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=fbdeb9bc0c329905a486018036c20e83&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59520" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1451_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Emploi/Nomination</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=fbdeb9bc0c329905a486018036c20e83&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59520" target="_blank"><b>Nouveau
+                          responsable grands comptes chez THQ</b></a><br>
+                          <a class="font3-224" target="_blank">Après deux ans et demi au sein
+                          du magasin Auchan Béthune, au poste de chef de rayon
+                          &quot;Jeux et Jouets&quot;, <b>Jérôme Huvelle</b>,
+                          intègre en janvier 2001, la centrale d’achat
+                          Boulanger. Pendant trois ans, il ...</a></font></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top"><a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=7a537d0ea0ef6333957fe1a861cc1913&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59514" target="_blank"><font face="Arial" size="2" target="_blank"><img style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" src="http://www.multimedialaune.net/photo/PV_photo_1449_1.jpg" width="50" border="0" target="_blank"></font></a></td>
+                        <td class="fond1-224" vAlign="top" width="430"><font face="Arial" size="2"><a class="font1-224" target="_blank">Emploi/Nomination</a><br>
+                          <a class="font2-224" href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=7a537d0ea0ef6333957fe1a861cc1913&lat=1070559383&hm___action=http%3a%2f%2fwww%2emultimedialaune%2enet%2findex%2ephp3%3faction%3dpage%26amp%3bid_art%3d59514" target="_blank"><b>Deux
+                          nominations au sein de Surcouf.com</b></a><br>
+                          <a class="font3-224" target="_blank"><b>Fabrice Valay</b> et <b>Didier
+                          Weber</b>, tous deux membres du comité de direction
+                          de Surcouf.com, sont nommés respectivement directeur
+                          des opérations de Surcouf.com et directeur de Surcouf
+                          Entreprises. ...</a></font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="top" align="middle">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="20">
+                </td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="20">
+                  <p align="center"><b><font size="2" face="Arial">&nbsp;avec</font></b></td>
+              </tr>
+              <tr>
+                <td vAlign="center" align="left" height="20">
+                  <p align="center"><a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=34de9bca58e3efeb065c092a2957d1ef&lat=1070559383&hm___action=http%3a%2f%2fwww%2eanswers%2dfrance%2ecom" target="_blank"><font size="2" face="Arial" target="_blank"><img border="0" src="http://www.multimedialaune.net/module_perso/module99_82031.jpg" width="120" height="61" target="_blank"></font></a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        <!-- ************************************* colonne du centre ************************************************************************** -->
+        <!-- *************************** colonne de droite ************************************************************************************ -->
+        <td class="fond4" vAlign="top" align="left" width="256" ? bgcolor="#C0C0C0">
+          <p align="center">&nbsp;
+          </p>
+
+          <p align="center">&nbsp;
+          </p>
+
+        </td>
+      </tr>
+      <tr>
+        <!-- *************************** ours ************************************************************************************************ -->
+        <td class="fond6" vAlign="top" align="left" width="760" colSpan="2">
+          <table cellSpacing="0" cellPadding="0" border="0">
+            <tbody>
+              <tr>
+                <td vAlign="top" align="middle"><!-- START MODULE =============================================================================================================== -->
+                  <table cellSpacing="0" cellPadding="0" width="760" border="0">
+                    <tbody>
+                      <tr>
+                        <td bgColor="#cccccc" height="25">
+                          <p align="right"><font face="Arial" color="#cccccc" size="1">.<!--webbot                           bot="HTMLMarkup" startspan --><table border=0 width=760 cellspacing=0 cellpadding=0><tr><td bgcolor=D30009 height=15 align=center><font face=Verdana size=1 color=FFFFFF><b>(c) 2003 CSV Online - Une réalisation PUBAO</b></td></tr><tr><td height=25 bgcolor=CCCCCC><font face=Arial color=CCCCCC size=1>.</td></tr>><COMMENT language="JavaScript1.1">
+<!--
+hsh = new Date();
+hsd = document;
+hsi = '<a href="http://www.xiti.com/xiti.asp?s=62397"';
+hsi += ' TARGET="_top"><img width="39" height="25" border=0 ';
+hsi += 'src="http://logv14.xiti.com/hit.xiti?s=62397';
+hsi += '&p=';
+hsi += '&hl=' + hsh.getHours() + 'x' + hsh.getMinutes() + 'x' + hsh.getSeconds();
+if(parseFloat(navigator.appVersion)>=4)
+{Xiti_s=screen;hsi += '&r=' + Xiti_s.width + 'x' + Xiti_s.height + 'x' + Xiti_s.pixelDepth + 'x' + Xiti_s.colorDepth;}
+hsd.writeln(hsi + '&ref=' + hsd.referrer.replace('&', '$') + '" title="Mesurez votre audience"></a>');
+//-->
+</COMMENT>
+<noscript>
+<a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=acfb0f519d5945e0a955e6e9d31f43b7&lat=1070559383&hm___action=http%3a%2f%2fwww%2exiti%2ecom%2fxiti%2easp%3fs%3d62397" TARGET="_blank"><img width="39" height="25" border=0 src="http://logv14.xiti.com/hit.xiti?s=62397&p=&" title="Mesurez votre audience" target="_blank"></a>
+</noscript>
+</td></tr></table> </td></tr></table>          
+         
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+</table> 
+          
+<!--webbot bot="HTMLMarkup" endspan -->
+                          </font></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <!-- END MODULE ================================================================================================================= -->
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<a href="http://64.4.26.250/cgi-bin/linkrd?_lang=EN&lah=78301a24dbb98b006b6aa6bf45c2eda0&lat=1070559383&hm___action=http%3a%2f%2fwww%2ewebzinemaker%2enet" target="_blank"><img src="1pixel.gif" border="0" width="1" height="1" target="_blank"></a>
+
+<br>&nbsp;<br>Multimedia A La Une
+Le portail professionnel des Loisirs Numeriques
+
+http://www.multimedialaune.com 
+
+Pour vous désinscrire, merci de vous rendre ici:
+http://www.multimedialaune.com/cgi-bin/pg-mlpro.cgi?A=dknk24@hotmail.com&L=1 
+
+
+
+
+<font color=#000000></div>
+
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<div align=right class="HT">
+<table border=0 cellspacing=0 cellpadding=2>
+<tr>
+<td><a href="javascript:S('getmsg','','','','','MSG1070539939.105','','','prev')" tabindex=1><img src="http://64.4.26.24/i.p.previous.gif" border=0></a></td><td>|</td>
+<td><a href="javascript:S('getmsg','','','','','MSG1070539939.105','','','next')" tabindex=2><img src="http://64.4.26.24/i.p.next.gif" border=0></a></td><td>|</td>
+<td nowrap><a href="javascript:HM('')"><img src="http://64.4.26.24/i.p.folder.gif" align=left border=0>dknk</a></td><td>|</td>
+<td nowrap><a href="javascript:HM('curmbox=F000000001')"><img src="http://64.4.26.24/i.p.folder.inbox.gif" align=left border=0>Inbox</a></td>
+</tr>
+</table>
+</div>
+</td><td width=10><img src="http://64.4.26.24/spacer.gif" width=10 height=1></td>
+<td valign=top width=160>
+<IFRAME FRAMEBORDER=0 SCROLLING=NO MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=160 HEIGHT=600 SRC="http://rad.msn.com/ADSAdClient31.dll?GetAd?PG=HOTRW3?SC=D1?HM=045d47465f58585b471c5d4057151403496e7b51102852153e4b13595e535d530b05486664?LOC=I?TF=_NEW?ID=000115E803E2CCE6?UC=1?PS=?PI=44338?AP=1090?NA=1140?NC=9523" tabindex="-1"></IFRAME>
+
+</td>
+</tr></table><table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr>
+<td height=24 colspan=2>
+&nbsp;&nbsp;&nbsp;<a href="http://g.msn.com/1HM9EN/141??PS=8317" class="HH">Try MSN Internet Software for FREE!</a>			
+</td>
+</tr>
+<tr>
+<td height=24>
+<table border=0 cellpadding=0 cellspacing=0><tr>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7341??PS=8317" class="F">MSN Home</a>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7342??PS=8317" class="F">My MSN</a>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<font class="F">Hotmail</font>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7344??PS=8317" class="F">Search</a>&#160;&#160;</td>	
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7345??PS=8317" class="F">Shopping</a>&#160;&#160;</td>	
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7346??PS=8317" class="F">Money</a>&#160;&#160;</td>
+<td><font class="G">|</font></td>
+<td nowrap>&#160;&#160;<a href="http://g.msn.com/8HMBEN/7347??PS=8317" class="F">People & Chat</a>&#160;&#160;</td>
+
+</tr></table>
+</td>
+<td nowrap align=right>
+<a href="http://g.msn.com/0nwenus0/A9/23??PS=8317&DI=8317" class="G">Feedback</a>&nbsp;&nbsp;<font class="G">|</font>&nbsp;&nbsp;
+<a href="javascript:CPH('PIM_ReadMessage');" class="G">Help</a>&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td height=20 style="BORDER-TOP:1px solid #87b3d0" nowrap colspan=2>
+&nbsp;<font class="G">&copy; 2003 Microsoft Corporation. All rights reserved.</font> <a href="http://g.msn.com/1HM9EN/147??PS=8317" target="_top" class="G">TERMS OF USE</a>
+&nbsp;&nbsp;<a href="http://g.msn.com/1HM9EN/146??PS=8317" target="_top" class="G">Privacy Statement</a>
+</td>
+</tr>
+<tr><td colspan=2><img src="http://64.4.26.24/spacer.gif" height=1 width=779></td></tr>
+</table>
+<IMG SRC="http://h.msn.com/c.gif?RF=&PI=44338&DI=1039&PS=8317" width=1 height=1>
+
+</body>
+</html>
+<!-- H: bay8-f43.bay8.hotmail.com -->
+<!-- V: WIN2K 09.08.00.0076 i -->
+<!-- D: Nov 16 2003 13:22:26-->
+<!-- S: 0-->
