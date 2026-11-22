@@ -17,6 +17,8 @@ https://github.com/wbtx/dknk
 
 [si version simplifiée \\ «»«»«» «» de \\\ ⓟⓝⓣ 4L ←  l'interface, ne vous inquiétez-%, «» faire share «»«» \\\\ [puis ouvrir \\\ [l'interface nouvelle avec un browser] ←] °° ←[⇾⇾⇾  . Deux ←[un]] \\\\, [Hourra ! Dieu Peai \\\] ← - "share" optionnel, browser lod \\\\ ouvrir "fichiers récents \\\ [ou ° dknk °°°] ←", \\ [p2 ← [ngam github] \\] ← - ⇾  \\ En Phrase Éternelle] ← -
 
+[lisez 30f [et 29f, . un \\\ . Koid \\ et \\\ . pv ← 28f -eph- \\\\\ [tous \\\\ x ← doc, ⓟⓝⓣ 5L] \\ ←[en fin de parcours \\\ [le 30 \\\\>> . f ←] °± . 4L ! Theua1]] ←, md «»«» README \\ [«» \\ Phrase Éternelle] ← «»«», sou ⓛ loum1-v lai ⓑ \\\, [vai2-v thoen-v \\\ Sourire ← Gnim2-v Dieu \\\] ←] ←
+
 -------
 
 readme git \\\ ←[«» "git" flèche \\\, Dieu San2 \\\ . b ← Eai git \\\ hub ←] hub -
